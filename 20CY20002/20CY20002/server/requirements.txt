@@ -1,0 +1,5 @@
+Flask==2.2.5
+flask-cors==3.0.10
+langchain-groq==0.1.0  # Replace with the correct version, if known
+pdfplumber==0.9.0
+PyPDF2==3.0.0  # For PDF handling (used indirectly by pdfplumber)
